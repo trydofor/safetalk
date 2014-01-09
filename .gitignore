@@ -1,6 +1,11 @@
-*.class
+# IDE setting
+.settings
+.classpath
+.project
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Tmp files
+*.class
+*.log
+
+# Os files
+Thumbs.db
